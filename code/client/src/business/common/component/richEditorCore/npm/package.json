@@ -1,0 +1,15 @@
+{
+  "name": "tleditor",
+  "version": "0.0.5",
+  "description": "A simple block-style editor based on vue3 and typescript",
+  "main": "TLEditor.js",
+  "repository": "https://github.com/Teamlinker/Teamlinker",
+  "homepage": "https://github.com/Teamlinker/Teamlinker/blob/dev/code/client/src/business/common/component/richEditorCore/npm/README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue","teamlinker","editor","text editor","block editor"],
+  "author": "teamlinker",
+  "license": "ISC",
+  "types": "./TLEditor.d.ts"
+}
