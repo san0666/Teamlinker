@@ -10,7 +10,7 @@ Team Collaboration Solution For Enterprise Users
 Team collaboration has never been easier
 </h4>
 
-English | [简体中文](./README-ZH-CN.md)
+English | 
 
 ## 📝 Introduction
 Teamlinker is a team collaboration platform that integrates multi-functional modules,such as contact, task management, meeting, IM,Wiki and file management.
