@@ -92,26 +92,3 @@ system
 ![example7-1](img/example7-1.png)
 
 
-## 🎬 Author
-
-Ansun [[ website ](https://team-linker.com) | [ github ](https://github.com/sx1989827)]
-
-## 📺 Tips
-1. Only allowed to be used for personal study, graduation projects, teaching cases, public welfare undertakings, and commercial use;
-
-2. If copyright information must be retained for commercial use, please abide by it consciously;
-
-3. It is prohibited to sell the code and resources of this open source in any form or under any name, otherwise the infringer will be responsible for any consequences;
-
-4. The source code of this version is all open source; including front-end and back-end, without any encryption;
-
-5. For commercial use, please carefully review the code and vulnerabilities. It must not be used for commercial applications outside the scope of permission in any country. You will be responsible for any consequences;
-
-
-## 🔓 License
-
-[ISC](./LICENSE)
-
-## ⚡ Technology Exchange
-
-[Discord](https://discord.gg/X8t4d7JqgX)
