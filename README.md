@@ -21,9 +21,7 @@ Teamlinker is developed based on the TeamOS system. It is a web operating system
 
 
 
-## 📋 Official website
 
-https://team-linker.com
 
 
 ## 📋 Documentation
